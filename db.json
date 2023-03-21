@@ -20,6 +20,16 @@
       "email": "chavanswapnil822@gmail.com",
       "password": "12345"
     }
+  ],
+
+  "demo":
+  [
+    {
+      "man":"swapnil",
+      "image": "chavanswapnil822@gmail.com",
+      "price": "12345",
+      "role":"fswd"
+    }
   ]
     
 }
