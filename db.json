@@ -1,4 +1,16 @@
 {
+"data":[
+{
+  "id":1,
+  "name": "Raj",
+  "email": "rag@gmail.com",
+  "destination": "India",
+  "travelers": "7",
+  "budget": "2000"
+}
+],
+
+
   "books": [
     {
       "id": 1,
